@@ -35,4 +35,16 @@ Model behaviour of cancelling
 Correlate with risk rate
 
 
+Profitibility/Security ID
 
+
+
+Segment use ARPU
+
+
+Features to add -> price range @ exec.
+                -> Add financial analyst
+                -> Mutual Funds -> minimize risk
+
+---------------------------------------------------------------------------
+Features to add (Modeling)
